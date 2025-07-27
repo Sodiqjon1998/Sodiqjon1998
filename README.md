@@ -6,7 +6,7 @@ IF (LIKE MY WORK) FOLLOW && STAR
 
 ### Sodiqjon1998's Contribution Graph
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sodiqjon1998&theme=dark)](https://git.io/streak-stats) 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sodiqjon1998&theme=react-dark&hide_border=true&area=true)](https://github.com/Sodiqjon1998)
 
 ### Sodiqjon1998's Github Stats
 
