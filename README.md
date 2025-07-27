@@ -1,8 +1,11 @@
 # Sodiqjon Sirojiddinov
 
+![Sodiqjon Sirojiddinov Banner](https://github.com/Sodiqjon1998/Sodiqjon1998/blob/main/path/to/your/animated_banner.gif?raw=true)
+
 ---
 
-IF (LIKE MY WORK) FOLLOW && STAR
+![Follow and Star](https://github.com/Sodiqjon1998/Sodiqjon1998/blob/main/path/to/your/follow_star_animation.gif?raw=true)
+
 
 ### Sodiqjon1998's Contribution Graph
 
